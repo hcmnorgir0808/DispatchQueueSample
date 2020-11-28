@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E9062C84-079B-4AA3-9B67-B6E7AE654A37"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9586E62D-DA50-46CE-9B03-DE9A36068A60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DispatchQueueSample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "doMultiAsyncProcess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9586E62D-DA50-46CE-9B03-DE9A36068A60 - a3b1e3acc864d0ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DispatchQueueSample.ViewController.(doMultiAsyncProcess in _D8C4178E8B8B9614D3ABF63A8DF60065)() -&gt; ()"
+                  moduleName = "DispatchQueueSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/Desktop/ios%20project/DispatchQueueSample/DispatchQueueSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "827">
+               </Location>
+               <Location
+                  uuid = "9586E62D-DA50-46CE-9B03-DE9A36068A60 - 86bb4a3c78ec0578"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in DispatchQueueSample.ViewController.(doMultiAsyncProcess in _D8C4178E8B8B9614D3ABF63A8DF60065)() -&gt; ()"
+                  moduleName = "DispatchQueueSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/Desktop/ios%20project/DispatchQueueSample/DispatchQueueSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03D109AE-79FA-4885-9091-D55AC6DBBC81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DispatchQueueSample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "doMultiAsyncProcess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03D109AE-79FA-4885-9091-D55AC6DBBC81 - 86bb4a3c78ec053e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in DispatchQueueSample.ViewController.(doMultiAsyncProcess in _D8C4178E8B8B9614D3ABF63A8DF60065)() -&gt; ()"
+                  moduleName = "DispatchQueueSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/Desktop/ios%20project/DispatchQueueSample/DispatchQueueSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  uuid = "03D109AE-79FA-4885-9091-D55AC6DBBC81 - dc164769bc44bd90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; () in closure #1 () -&gt; () in DispatchQueueSample.ViewController.(doMultiAsyncProcess in _D8C4178E8B8B9614D3ABF63A8DF60065)() -&gt; ()"
+                  moduleName = "DispatchQueueSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/Desktop/ios%20project/DispatchQueueSample/DispatchQueueSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23F13FB3-74D2-49C7-9A4E-CBBAA67740B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DispatchQueueSample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "doMultiAsyncProcess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23F13FB3-74D2-49C7-9A4E-CBBAA67740B9 - a3b1e3acc864d0ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DispatchQueueSample.ViewController.(doMultiAsyncProcess in _D8C4178E8B8B9614D3ABF63A8DF60065)() -&gt; ()"
+                  moduleName = "DispatchQueueSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/Desktop/ios%20project/DispatchQueueSample/DispatchQueueSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "827">
+               </Location>
+               <Location
+                  uuid = "23F13FB3-74D2-49C7-9A4E-CBBAA67740B9 - 86bb4a3c78ec0578"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in DispatchQueueSample.ViewController.(doMultiAsyncProcess in _D8C4178E8B8B9614D3ABF63A8DF60065)() -&gt; ()"
+                  moduleName = "DispatchQueueSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iwamotoyasutaka/Desktop/ios%20project/DispatchQueueSample/DispatchQueueSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
